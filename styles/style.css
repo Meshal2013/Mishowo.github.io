@@ -1,0 +1,40 @@
+
+h1 {color: white;}
+h2 {color: green;}
+section {
+background-color: gray;
+width: 70%;
+margin: auto;
+
+
+}
+
+div{
+	
+	background-color:LemonChiffon ;
+	
+}
+	body{
+		width:  70%;
+		margin: auto;
+	}
+ol {
+    list-style-type: lower-latin;
+}
+table{
+		width: 40%;
+		margin: auto;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+
+th {
+    background-color: #3399ff;
+    color: white;
+}
+
+footer{background-color: gray;}
